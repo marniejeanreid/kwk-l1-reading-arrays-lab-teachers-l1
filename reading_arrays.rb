@@ -14,7 +14,11 @@ end
 
 def fourth_student_by_index
   # Write a solution that returns the first student in the array student_names
+<<<<<<< HEAD
   STUDENT_NAMES[3]
+=======
+  puts "hello"
+>>>>>>> 7c7eeabfcdf11641bbd3d55635e10a851dfadfd4
 end
 
 def last_student_by_index
